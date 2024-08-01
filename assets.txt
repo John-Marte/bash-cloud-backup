@@ -23,3 +23,13 @@ content-stg-22.carbonconsole.com
 content-stg-23.carbonconsole.com
 content-stg-24.carbonconsole.com
 content-stg-25.carbonconsole.com
+content-stg-26.carbonconsole.com
+content-stg-27.carbonconsole.com
+content-stg-28.carbonconsole.com
+content-stg-29.carbonconsole.com
+content-stg-30.carbonconsole.com
+content-stg-31.carbonconsole.com
+content-stg-32.carbonconsole.com
+content-stg-33.carbonconsole.com
+content-stg-34.carbonconsole.com
+content-stg-35.carbonconsole.com
